@@ -1,0 +1,23 @@
+.slider {
+  position: relative;
+  width: 1180px;
+  margin: 0 auto;
+  height: 600px;
+  overflow: hidden;
+  white-space: nowrap;
+  background-color: black;
+}
+
+.slider-wrapper {
+  position: relative;
+  height: 100%;
+  width: 100%;
+  color: black;
+}
+
+.slide {
+  display: inline-block;
+  height: 100%;
+  width: 100%;
+  background-color: black;
+}
